@@ -6,7 +6,7 @@
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
 
-[Fess](https://fess.codelibs.org/index.html) adalah ...
+[IHateToBudget](https://github.com/bminusl/ihatetobudget) adalah ...
 
 
 # Instalasi
