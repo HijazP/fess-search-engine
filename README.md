@@ -25,7 +25,7 @@
 # Sekilas Tentang
 ![alt text](https://github.com/HijazP/i-hate-to-budget/blob/main/Image/Loginpage.png)
 
-[IHateToBudget](https://github.com/bminusl/ihatetobudget) adalah sebuah web apps yang bertujuan untuk membantu dalam memahami dan mengontrol pengeluaran/budget. Pada web apps ini, kita dapat mengkategori kan jenis dan total pengeluaran yg ada pada suatu bulan sehingga kita dapat melihat berapa pengeluaran kita untuk setiap bulannya. Kita juga bisa melihat dan memfilter pengeluaran bulan mana yang mau dilihat. Dengan web apps ini, diharapkan dapat membantu dalam memanajemen keuangan.
+[IHateToBudget](https://github.com/bminusl/ihatetobudget) adalah sebuah web app yang bertujuan untuk membantu dalam memahami dan mengontrol pengeluaran/budget. Pada web app ini, kita dapat mengkategorikan jenis dan total pengeluaran yang ada pada suatu bulan sehingga kita dapat melihat berapa pengeluaran kita untuk setiap bulannya. Kita juga bisa melihat dan memfilter pengeluaran bulan mana yang mau dilihat. Dengan web app ini, diharapkan dapat membantu dalam memanajemen keuangan.
 
 ## Instalasi
 [`^ kembali ke atas ^`](#)
@@ -162,7 +162,7 @@ Cara lain untuk mempersingkat proses instalasi adalah menggunakan *shell script*
 [`^ kembali ke atas ^`](#)
 
 - Pendapat anda tentang aplikasi web ini
-    - ### kelebihan
+    - ### Kelebihan
       1. Dapat mengatur sendiri kategori pengeluaran
       ![image](https://user-images.githubusercontent.com/65883882/196928714-801e1f62-ce89-4863-92e0-9645c3cd447e.png)
       2. Dapat melihat history pengeluaran
@@ -170,7 +170,7 @@ Cara lain untuk mempersingkat proses instalasi adalah menggunakan *shell script*
       3. Terdapat insight pengeluaran per bulannya
       ![image](https://user-images.githubusercontent.com/65883882/196929851-ac9666bf-a346-43f8-8fa5-9c339b3c7764.png)
 
-    - ### kekurangan
+    - ### Kekurangan
       1. Hanya mencatat jumlah pengeluaran, tidak mencatat saldo yang ada
       ![image](https://user-images.githubusercontent.com/65883882/196930621-c0826813-e429-4ff7-945e-88a5af0a5274.png)
       2. Tidak bisa lebih dari 1 akun dalam 1 server
@@ -180,7 +180,7 @@ Cara lain untuk mempersingkat proses instalasi adalah menggunakan *shell script*
   ### Money Lover
   1. Terdapat pembagian untuk sumber uang
   ![image](https://user-images.githubusercontent.com/65883882/196955697-2b1ce911-b781-4be9-b2bc-e18977ed5d37.png)
-  2. kategori pengeluaran sudah tersedia, namun tidak dapat dikustomisasi
+  2. Kategori pengeluaran sudah tersedia, namun tidak dapat dikustomisasi
   ![image](https://user-images.githubusercontent.com/65883882/196955818-f19f4168-f6a5-4a50-bf8a-b3de68a05de0.png)
   
   ### SikapiUangmu - OJK
