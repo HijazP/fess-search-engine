@@ -19,8 +19,8 @@
   <em>Reference by <a href="https://github.com/bminusl/ihatetobudget">bminusl</a>.</em>
 </p>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:|:---:
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Maintenance](#maintenance) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
     
 # Sekilas Tentang
 ![alt text](https://github.com/HijazP/i-hate-to-budget/blob/main/Image/Loginpage.png)
@@ -91,6 +91,8 @@ docker compose run --rm ihatetobudget pipenv run python manage.py createsuperuse
 8. Sekarang Anda sudah bisa mengakses [IHateToBudgetInstance](127.0.0.1) di `http://127.0.0.1:80`. *Login* menggunakan *username* dan *password* yang sebelumnya sudah dibuat.
 
 ## Maintenance
+[`^ kembali ke atas ^`](#)
+
 #### Docker
 1. Pergi ke *root* di repositori.
 
@@ -119,8 +121,9 @@ docker compose exec ihatetobudget service cron start
 ```
 
 
-## Otomatisasi (opsional)
+## Otomatisasi
 [`^ kembali ke atas ^`](#)
+
 Cara lain untuk mempersingkat proses instalasi adalah menggunakan *shell script*. *Shell script* adalah kumpulan kode yang dapat dijalankan di Unix shell. Berikut adalah kumpulan *shell script* untuk instalasi, menjalankan, serta menghentikan server aplikasi.
 
 #### Cara menjalankannya dengan perintah `./(nama).sh`
@@ -156,6 +159,7 @@ Cara lain untuk mempersingkat proses instalasi adalah menggunakan *shell script*
         ![alt text](https://github.com/HijazP/i-hate-to-budget/blob/main/Image/CreateNewExpense.png)
 
 ## Pembahasan
+[`^ kembali ke atas ^`](#)
 
 - Pendapat anda tentang aplikasi web ini
     - kelebihan
@@ -164,5 +168,6 @@ Cara lain untuk mempersingkat proses instalasi adalah menggunakan *shell script*
 
 
 ## Referensi
+[`^ kembali ke atas ^`](#)
 
 Cantumkan tiap sumber informasi yang anda pakai.
