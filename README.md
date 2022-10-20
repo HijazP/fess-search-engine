@@ -23,7 +23,6 @@
 :---:|:---:|:---:|:---:|:---:|:---:
     
 # Sekilas Tentang
-[`^kembali ke atas^`](#)
 ![alt text](https://github.com/HijazP/i-hate-to-budget/blob/main/Image/Loginpage.png)
 
 [IHateToBudget](https://github.com/bminusl/ihatetobudget) adalah sebuah web apps yang bertujuan untuk membantu dalam memahami dan mengontrol pengeluaran/budget. Pada web apps ini, kita dapat mengkategori kan jenis dan total pengeluaran yg ada pada suatu bulan sehingga kita dapat melihat berapa pengeluaran kita untuk setiap bulannya. Kita juga bisa melihat dan memfilter pengeluaran bulan mana yang mau dilihat. Dengan web apps ini, diharapkan dapat membantu dalam memanajemen keuangan.
@@ -121,8 +120,21 @@ docker compose exec ihatetobudget service cron start
 
 
 ## Otomatisasi (opsional)
+[`^ kembali ke atas ^`](#)
+Cara lain untuk mempersingkat proses instalasi adalah menggunakan *shell script*. *Shell script* adalah kumpulan kode yang dapat dijalankan di Unix shell. Berikut adalah kumpulan *shell script* untuk instalasi, menjalankan, serta menghentikan server aplikasi.
 
-Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
+#### Cara menjalankannya dengan perintah `./(nama).sh`
+1. [setup.sh](https://github.com/HijazP/i-hate-to-budget/shell/setup.sh) berisi kode `git clone` dan `cp`.
+
+2. [change.sh](https://github.com/HijazP/i-hate-to-budget/shell/change.sh) berisi kode untuk konfigurasi tampilan mata uang.
+
+3. [user.sh](https://github.com/HijazP/i-hate-to-budget/shell/user.sh) berisi kode untuk konfigurasi *user*.
+
+4. [start.sh](https://github.com/HijazP/i-hate-to-budget/shell/start.ch) berisi kode untuk menjalankan server.
+
+5. [stop.sh](https://github.com/HijazP/i-hate-to-budget/shell/stop.sh) berisi kode untuk menghentikan server.
+
+*Shell script* `user.sh`, `start.sh`, dan `stop.sh` dan dijalankan kapanpun setelah `setup.sh` dan `change.sh` dijalankan.
 
 
 ## Cara Pemakaian
