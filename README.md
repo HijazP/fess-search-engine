@@ -1,10 +1,30 @@
-# Aplikasi Web "I Hate To Budget"
-![alt text](https://github.com/HijazP/i-hate-to-budget/blob/main/Image/Loginpage.png)
+<p align="center">
+  <a href="https://github.com/bminusl/ihatetobudget/">
+    <img src="https://raw.githubusercontent.com/bminusl/ihatetobudget/master/static/logo.png" alt="IHateToBudget logo" height="130">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/HijazP/i-hate-to-budget/blob/main/Image/logo%20azure.png" alt="GitHub Pipenv locked Python version" height="20">
+  <img src="https://github.com/HijazP/i-hate-to-budget/blob/main/Image/logo%20docker.png" alt="GitHub Pipenv locked Python version" height="20">
+  <img src="https://github.com/HijazP/i-hate-to-budget/blob/main/Image/logo%20pyhton.png" alt="GitHub Pipenv locked Python version" height="20">
+  <img src="https://github.com/HijazP/i-hate-to-budget/blob/main/Image/django%20logo.png" alt="GitHub Pipenv locked Python version" height="20">
+  </p>
+
+<p align="center">
+  Aplikasi web sederhana untuk mengatur pengeluaran Anda.
+  <br>
+  Didesain untuk dihosting sendiri.
+  <br>
+  <em>Reference by <a href="https://github.com/bminusl/ihatetobudget">bminusl</a>.</em>
+</p>
+
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:
-
+    
 # Sekilas Tentang
 [`^kembali ke atas^`](#)
+![alt text](https://github.com/HijazP/i-hate-to-budget/blob/main/Image/Loginpage.png)
 
 [IHateToBudget](https://github.com/bminusl/ihatetobudget) adalah sebuah web apps yang bertujuan untuk membantu dalam memahami dan mengontrol pengeluaran/budget. Pada web apps ini, kita dapat mengkategori kan jenis dan total pengeluaran yg ada pada suatu bulan sehingga kita dapat melihat berapa pengeluaran kita untuk setiap bulannya. Kita juga bisa melihat dan memfilter pengeluaran bulan mana yang mau dilihat. Dengan web apps ini, diharapkan dapat membantu dalam memanajemen keuangan
 
